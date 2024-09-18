@@ -1,7 +1,7 @@
 <h1 align="center"> Hi I´m Rolando Murillo👋</h1>
 
 <div heigth=100%>
-  <img src = "" width="100%" heigth="10%"></img>
+  <img src = "" width="80%" heigth="10%"></img>
 </div>
 
 
