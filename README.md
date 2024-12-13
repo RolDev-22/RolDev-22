@@ -1,7 +1,7 @@
-<h1 align="center"> Hi I´m Rolando Murillo👋</h1>
 
-<div heigth=100%>
-  <img src = "" width="80%" heigth="10%"></img>
+<div heigth=100% width=100%>
+  <h1 align="center"> Hi I´m Rolando Murillo👋</h1>
+  <img src = "Full Full.png" width="90%" heigth="50%"   object-fit=contain ></img>
 </div>
 
 
