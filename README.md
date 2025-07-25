@@ -11,7 +11,7 @@ en el aprendizaje continuo y la innovación tecnológica </p>
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 💻 Visit my <a href="https://roldev-22.github.io/portafolio_RolDev_22/" target="_blank"> for more details about me.
+- 💻 Visit my <a href="https://roldev-22.github.io/portafolio_RolDev_22/" target="_blank"> Portafolio.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
@@ -39,7 +39,7 @@ en el aprendizaje continuo y la innovación tecnológica </p>
 
 <h2 align="center">🫴 CONTACTAME 🤝 </h2>
 <div align="center">
- <a href="www.linkedin.com/in/rolando-murillo-aguirre-fullstack-dev" target="_blank">
+ <a href="www.linkedin.com/in/rolando-ma" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
   
