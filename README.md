@@ -147,6 +147,11 @@ Proyectos que reflejan mi compromiso con el desarrollo limpio, modular y escalab
   </div>
 </section>
 
+<section width="100%" align="center">
+  <div>
+  <img width="100%" style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=%C2%A9%20RolDev-22%202025&fontSize=20&fontColor=FFF&fontAlign=50&fontAlignY=85&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
+</section>
 
 
 
