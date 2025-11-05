@@ -135,7 +135,7 @@ Proyectos que reflejan mi compromiso con el desarrollo limpio, modular y escalab
   <h2 align="center">🫴 - CONTACTAME - 🤝</h2>
   <!--CONTENIDO DE LA SECCIÓN-->
   <div align="center">
-    <a href="www.linkedin.com/in/rolando-ma" target="_blank">
+    <a href="https://www.linkedin.com/in/rolando-ma" target="_blank">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="45" alt="linkedin logo"  />
     </a>
     <a href="mailto:rolandomurilloaguirre22@gmail.com" target="_blank">
